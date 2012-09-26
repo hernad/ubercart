@@ -1,19 +1,47 @@
-WHERE'S THE CODE?
------------------
+UBERCART README
 
-You've just checked out the code from Git's "master" branch. In Drupal contrib
-module development, the code lives in branches that match a naming convention
-which mirrors the released version numbers.
+Ubercart is a set of modules designed to allow you to run a store on your Drupal
+site.  Development has been driven by two major emphases: flexibility and
+usability.  The various systems driving Ubercart, including the product catalog,
+shopping cart and checkout, order, shipping, and payment systems have all been
+designed to be extended to meet any need.  Furthermore, the administrative
+interface, particularly relating to processing and fulfilling orders, has been
+designed for ease of use and efficient display of information.
 
-For example:
-The code for a project's 7.x-3.x-dev version is found in the 7.x-3.x Git branch.
+Ubercart is being sponsored and developed by the team at
+http://www.ubercart.org.  Sign up for site access to join the Ubercart community
+and take advantage of our forums and issue tracking.
 
-To see a list of all branches for this project using Git on the command line,
-use the following command:
+Features overview:
+http://www.ubercart.org/what_is_ubercart
 
-  git branch -a
+Screenshots:
+http://www.ubercart.org/screenshots
 
-To switch from master branch to the 7.x-3.x branch using Git on the command
-line, use the following command:
+User's and Developer's Guides:
+http://www.ubercart.org/docs
 
-  git checkout 7.x-3.x
+Installation Manual (with module descriptions):
+http://www.ubercart.org/docs/user/8075/installing_ubercart
+
+Support forums:
+http://www.ubercart.org/forum
+
+Contributions directory:
+http://www.ubercart.org/contrib
+
+Live sites directory:
+http://www.ubercart.org/site
+
+Report a bug or feature request:
+http://drupal.org/project/issues/ubercart
+
+Thanks for checking out Ubercart!  We would love to hear your feedback.
+We particularly want to know how we can make Ubercart better and easier to use.
+Feel free to post your thoughts in the forums at Ubercart.org!  We will make a
+survey available for more targeted feedback in the near future.
+
+Releases may be downloaded at http://drupal.org/project/ubercart.
+
+Kind regards,
+The UberDudes
